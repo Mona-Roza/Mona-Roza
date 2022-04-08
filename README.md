@@ -5,7 +5,7 @@
 --- 
 - 👩🏻‍💻 I’m currently working on my own projects
 - 🌱 I’m currently learning java 
-- 📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basak-nisan-ivgen-blue?style=flat&logo=linkedin"></a>
+- 📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen-a87939202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basak-nisan-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 - 🌸 Fun Facts: Books, travel and cinema.  
