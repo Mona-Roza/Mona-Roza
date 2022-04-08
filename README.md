@@ -2,9 +2,6 @@
 
 ### I'm a software engineer and i development c, c#, java, dart/flutter projects.   
 
-
-
-
 --- 
 - 👩🏻‍💻 I’m currently working on my own projects
 - 🌱 I’m currently learning java 
