@@ -8,7 +8,7 @@
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen-a87939202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basaknisanivgen-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-- 🌸 Fun Facts: Books, travel and cinema.  
+- 🌸 Fun Facts: Books and music.  
 ---
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Mona-Roza}/count.svg" alt="Mona-Roza :: Visitor's Count" /></p>
