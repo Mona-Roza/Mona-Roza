@@ -1,6 +1,6 @@
 ### Hi there, I'm Başak! 👋   
 
-### I'm a software engineer and i development c, c#, java, dart/flutter projects.   
+### I'm a software engineer and i development c, c#, java, dart/flutter, python projects.   
 
 --- 
 - 👩🏻‍💻 I’m currently working on our telegram bot project
