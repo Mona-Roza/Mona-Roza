@@ -3,8 +3,8 @@
 ### I'm a software engineer and i development c, c#, java, dart/flutter projects.   
 
 --- 
-- 👩🏻‍💻 I’m currently working on my own projects
-- 🌱 I’m currently learning java 
+- 👩🏻‍💻 I’m currently working on our telegram bot project
+- 🌱 I’m currently learning java, python
 - 📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen-a87939202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basaknisanivgen-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
