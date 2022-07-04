@@ -5,7 +5,7 @@
 --- 
 - 👩🏻‍💻 I’m currently working on our telegram bot project
 - 🌱 I’m currently learning java, python
-- 📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen-a87939202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basaknisanivgen-blue?style=flat&logo=linkedin"></a>  <a href="https://medium.com/@mona-roza" target="_blank">https://img.shields.io/badge/medium-mona--roza-orange</a>
+- 📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen-a87939202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basaknisanivgen-blue?style=flat&logo=linkedin"></a>  <a href="https://medium.com/@mona-roza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/medium-mona--roza-orange">
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
 - 🌸 Fun Facts: Books and music.  
