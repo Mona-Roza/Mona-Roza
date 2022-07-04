@@ -15,8 +15,4 @@
 
 <a><img src="https://github-readme-stats.vercel.app/api?username=Mona-Roza&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" />  </a> <a>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Roza&layout=compact" alt="Mona-Roza :: Top Langs" /> </a>
 
-	  
- 
-  </tbody>
-</table>
 
