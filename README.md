@@ -13,8 +13,8 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Mona-Roza}/count.svg" alt="Mona-Roza :: Visitor's Count" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Mona-Roza&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Roza&layout=compact" alt="Mona-Roza :: Top Langs" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=Mona-Roza&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Roza&layout=compact" alt="Mona-Roza :: Top Langs" /> </p>
 
 	  
  
