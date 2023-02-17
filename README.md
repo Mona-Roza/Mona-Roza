@@ -9,7 +9,7 @@
 <a>💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.</a> <br>
 <a>🌸 Fun Facts: Books and music. </a> <br>
 
-### My Skills:
+#### 🚀  Some Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c-plus-plus" width="45" height="45"/>
