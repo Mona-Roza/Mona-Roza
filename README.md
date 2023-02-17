@@ -4,7 +4,7 @@ name: "Başak Nisan",
 
 located_in: "Istanbul, Turkiye",
 
-current_job: "Student" :D,
+current_job: "Student",
 
 education:
   [
