@@ -55,7 +55,7 @@ hobbies: ["Gaming", "Cinema", "Books", "Music"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 </p>
 
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mona-Roza&count_private=true&show_icons=true" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Roza&layout=compact" /> |
+| <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mona-Roza&count_private=true&show_icons=true&hide=contribs,prs" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Roza&layout=compact" /> |
 |---|---|
 
 
