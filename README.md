@@ -3,11 +3,11 @@
 <a>I'm a computer engineering student.</a> <br>
  
 <a>👩🏻‍💻 I’m currently working on my arduino project</a> <br>
-<a>🌱 I’m currently learning java, python</a> <br>
+<a>🌱 I’m currently learning embedded c</a> <br>
 <a>📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen-a87939202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basaknisanivgen-blue?style=flat&logo=linkedin"></a>  <a href="https://medium.com/@mona-roza" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40mona--roza-orange"></a> </a> <br>
 <a>😄 Pronouns: Computer Engineering Student</a> <br>
 <a>💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.</a> <br>
-<a>🌸 Fun Facts: Books and music. </a> <br>
+<a>🌸 Fun Facts: Reading books, listening music, writing code and playing video games. </a> <br>
 
 <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
