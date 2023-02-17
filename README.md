@@ -1,4 +1,4 @@
-```json
+```yaml
 {
 name: "Başak Nisan",
 
