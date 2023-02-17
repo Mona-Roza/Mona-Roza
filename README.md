@@ -1,14 +1,29 @@
-### Hi there, I'm Başak! 👋   
+```json
+{
+name: "Başak Nisan"
+located_in: "Istanbul, Turkiye"
+current_job: "Student" :D,
+education:
+  [
+    "Namik Kemal University, Department Of Computer Engineering",
+    "Çemberlitaş High School"
+  ],
 
-<a>I'm a computer engineering student.</a> <br>
- 
-<a>👩🏻‍💻 I’m currently working on my arduino project</a> <br>
-<a>🌱 I’m currently learning embedded c</a> <br>
-<a>📫 How to reach me:    <a href="https://www.linkedin.com/in/basak-nisan-ivgen-a87939202/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@basaknisanivgen-blue?style=flat&logo=linkedin"></a>  <a href="https://medium.com/@mona-roza" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%40mona--roza-orange"></a> </a> <br>
-<a>😄 Pronouns: Computer Engineering Student</a> <br>
-<a>💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.</a> <br>
-<a>🌸 Fun Facts: Reading books, listening music, writing code and playing video games. </a> <br>
+fields_of_interests:
+  [
+    "Microcontroller Programming",
+    "Embedded Software"
+  ],
+technical_background:
+  [
+    "If you give a change for me, it can be!"
+  ],
+  
+currently_learning: ["Embedded C"],
 
+hobbies: ["Gaming", "Cinema", "Books", "Music"]
+}
+```
 <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
