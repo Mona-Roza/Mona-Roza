@@ -1,8 +1,11 @@
 ```json
 {
-name: "Başak Nisan"
-located_in: "Istanbul, Turkiye"
+name: "Başak Nisan",
+
+located_in: "Istanbul, Turkiye",
+
 current_job: "Student" :D,
+
 education:
   [
     "Namik Kemal University, Department Of Computer Engineering",
@@ -14,6 +17,7 @@ fields_of_interests:
     "Microcontroller Programming",
     "Embedded Software"
   ],
+  
 technical_background:
   [
     "If you give a change for me, it can be!"
