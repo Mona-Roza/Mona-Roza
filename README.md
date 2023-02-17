@@ -10,6 +10,10 @@
 <a>💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.</a> <br>
 <a>🌸 Fun Facts: Books and music. </a> <br>
 
+### My Skills:
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</p>
 <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mona-Roza&count_private=true&show_icons=true"  /></a><a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Roza" /> </a>
 
 
