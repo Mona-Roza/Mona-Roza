@@ -15,7 +15,7 @@ education:
 
 fields_of_interests:
   [
-    "Microcontroller Programming",
+    "Esp32 Programming",
     "Embedded Software"
   ],
   
