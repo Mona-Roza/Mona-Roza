@@ -5,7 +5,7 @@ name: "Başak Nisan",
 
 located_in: "Istanbul, Turkiye",
 
-current_job: "Student",
+current_job: "Embedded Software Intern",
 
 education:
   [
@@ -15,16 +15,15 @@ education:
 
 fields_of_interests:
   [
-    "Esp32 Programming",
     "Embedded Software"
   ],
   
 technical_background:
   [
-    "If you give a change for me, it can be!"
+    "Currently Embedded Software Engineering Intern in Sensemore.io"
   ],
   
-currently_learning: ["Embedded C"],
+currently_learning: ["Embedded C", "Esp32 Programming", "Embedded C++"],
 
 hobbies: ["Gaming", "Cinema", "Books", "Music"]
 }
