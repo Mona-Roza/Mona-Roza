@@ -5,7 +5,11 @@ name: "Başak Nisan",
 
 located_in: "Istanbul, Turkiye",
 
-current_job: "Embedded Software Intern",
+current_job: 
+  [
+    "Student",
+    "Embedded Software Intern"  
+  ],
 
 education:
   [
