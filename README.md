@@ -24,7 +24,7 @@ fields_of_interests:
   
 technical_background:
   [
-    "Currently Embedded Software Engineering Intern in Sensemore.io"
+    "Currently Embedded Software Engineering Intern at Sensemore.io"
   ],
   
 currently_learning: ["Embedded C", "Esp32 Programming", "Embedded C++"],
