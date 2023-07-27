@@ -19,15 +19,15 @@ education:
 
 fields_of_interests:
   [
-    "Embedded Software"
+    "Embedded Software", "Elecronic"
   ],
   
 technical_background:
   [
-    "Currently Embedded Software Engineering Intern at Sensemore.io"
+    "Currently Embedded Software Developer at Sensemore.io"
   ],
   
-currently_learning: ["Embedded C", "Esp32 Programming", "Embedded C++"],
+currently_learning: ["Embedded C", "Esp32 Programming", "Embedded C++", "Zephyr"],
 
 hobbies: ["Gaming", "Cinema", "Books", "Music"]
 }
