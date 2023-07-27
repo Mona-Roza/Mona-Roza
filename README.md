@@ -8,7 +8,7 @@ located_in: "Istanbul, Turkiye",
 current_job: 
   [
     "Student",
-    "Embedded Software Intern"  
+    "Embedded Software Developer"  
   ],
 
 education:
