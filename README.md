@@ -7,10 +7,6 @@
       "Namik Kemal University, Department Of Computer Engineering",
       "Çemberlitaş High School"
     ],
-  "fields_of_interests": [
-    "Embedded Software",
-    "Elecronic"
-  ],
   "experience": {
       "July 2023 - September 2024": {
         "company": "Sensemore.io",
@@ -21,11 +17,6 @@
         "title": "Embedded Software Engineering Intern"
       }
   },
-  "hobbies": [
-    "Maker electronic",
-    "Books",
-    "Music"
-  ],
   "skills-tools":[
     "languages":[
       "c",
@@ -61,6 +52,11 @@
       "Bash Scripting",
       "Git&Github"
     ]
+  ],
+  "hobbies": [
+    "Maker electronic",
+    "Books",
+    "Music"
   ]
 }
 ```
