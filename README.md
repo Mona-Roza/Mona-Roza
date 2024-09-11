@@ -26,7 +26,7 @@
     "Books",
     "Music"
   ],
-  "tools":[
+  "skills-tools":[
     "languages":[
       "c",
       "c++",
