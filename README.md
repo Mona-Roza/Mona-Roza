@@ -1,35 +1,31 @@
-
-```yaml
+```json
 {
-name: "Başak Nisan",
-
-located_in: "Istanbul, Turkiye",
-
-current_job: 
-  [
-    "Student",
-    "Embedded Software Developer"  
+  "name": "Başak Nisan",
+  "located_in": "Istanbul, Turkiye",
+  "current_job": "In search of a new job",
+  "education": [
+      "Namik Kemal University, Department Of Computer Engineering",
+      "Çemberlitaş High School"
+    ],
+  "fields_of_interests": [
+    "Embedded Software",
+    "Elecronic"
   ],
-
-education:
-  [
-    "Namik Kemal University, Department Of Computer Engineering",
-    "Çemberlitaş High School"
-  ],
-
-fields_of_interests:
-  [
-    "Embedded Software", "Elecronic"
-  ],
-  
-technical_background:
-  [
-    "Currently Embedded Software Developer at Sensemore.io"
-  ],
-  
-currently_learning: ["Embedded C", "Esp32 Programming", "Embedded C++", "Zephyr"],
-
-hobbies: ["Gaming", "Cinema", "Books", "Music"]
+  "experience": {
+      "July 2023 - September 2024": {
+        "company": "Sensemore.io",
+        "title": "Embedded Software Engineer"
+      },
+      "April 2023 - July 2023": {
+        "company": "Sensemore.io",
+        "title": "Embedded Software Engineering Intern"
+      }
+  },
+  "hobbies": [
+    "Maker electronic",
+    "Books",
+    "Music"
+  ]
 }
 ```
 <h4> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
