@@ -50,7 +50,8 @@
     ],
     "other":[
       "Bash Scripting",
-      "Git&Github"
+      "Git&Github",
+      "CMake"
     ]
   ],
   "hobbies": [
