@@ -2,7 +2,7 @@
 {
   "name": "Başak Nisan",
   "located_in": "Istanbul, Turkiye",
-  "current_job": "In search of a new job",
+  "current_job": "Embedded Software Engineer at Uestco",
   "education": [
       "Namik Kemal University, Department Of Computer Engineering",
       "Çemberlitaş High School"
