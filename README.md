@@ -25,7 +25,8 @@
     "languages":[
       "c",
       "c++",
-      "python"
+      "python",
+      "javascript"
     ],
     "libraries-sdks":[
       "ESP-IDF",
