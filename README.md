@@ -21,7 +21,7 @@
         "title": "Embedded Software Engineering Intern"
       }
   },
-  "skills-tools":[
+  "skills-tools-knowlage":[
     "languages":[
       "c",
       "c++",
@@ -31,7 +31,8 @@
       "ESP-IDF",
       "AVR LibC",
       "nRF5 SDK",
-      "Vue.js"
+      "Vue.js",
+      "Electron.js"
     ],
     "os":[
       "unix-linux",
@@ -48,6 +49,7 @@
       "SPI",
       "i2c",
       "UART",
+      "MODBUS",
       "Bluetooth LE",
       "Wi-Fi",
       "Ethernet"
@@ -56,6 +58,11 @@
       "Bash Scripting",
       "Git&Github",
       "CMake"
+    ],
+    "microcontrollers":[
+      "esp32 family",
+      "stm32 family",
+      "NRF52832"
     ]
   ],
   "hobbies": [
