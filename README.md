@@ -57,6 +57,7 @@
     "other":[
       "Bash Scripting",
       "Git&Github",
+      "Make",
       "CMake"
     ],
     "microcontrollers":[
