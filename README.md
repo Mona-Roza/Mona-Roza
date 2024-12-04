@@ -8,6 +8,10 @@
       "Çemberlitaş High School"
     ],
   "experience": {
+      "October 2024 - Now": {
+        "company": "Uestco Energy Systems",
+        "title": "Embedded Software Engineer"
+      },
       "July 2023 - September 2024": {
         "company": "Sensemore.io",
         "title": "Embedded Software Engineer"
