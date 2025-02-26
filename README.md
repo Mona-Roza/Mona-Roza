@@ -32,6 +32,7 @@
       "ESP-IDF",
       "AVR LibC",
       "nRF5 SDK",
+      "Renesas SSP",
       "Vue.js",
       "Electron.js"
     ],
@@ -55,17 +56,25 @@
       "Wi-Fi",
       "Ethernet"
     ],
-    "other":[
-      "Bash Scripting",
-      "Git&Github",
-      "Make",
-      "CMake"
+    "tools":[
+      "VS Code",
+      "STM32CubeIDE",
+      "STM32CubeMX",
+      "Renesas e2studio"
     ],
     "microcontrollers":[
       "esp32 family",
       "stm32 family",
-      "NRF52832"
+      "NRF52832",
+      "Renesas Synergy S1 aeries"
     ]
+    "other":[
+      "Bash Scripting",
+      "Git&Github",
+      "Make",
+      "CMake",
+      "doxygen"
+    ],
   ],
   "hobbies": [
     "Maker electronic",
