@@ -37,9 +37,10 @@
       "Electron.js"
     ],
     "os":[
-      "unix-linux",
       "FreeRTOS",
+      "ThreadX",
       "Zephyr",
+      "unix-linux",
       "MacOS",
       "Windows"
     ],
@@ -56,25 +57,25 @@
       "Wi-Fi",
       "Ethernet"
     ],
-    "tools":[
-      "VS Code",
-      "STM32CubeIDE",
-      "STM32CubeMX",
-      "Renesas e2studio"
-    ],
     "microcontrollers":[
       "esp32 family",
       "stm32 family",
       "NRF52832",
       "Renesas Synergy S1 aeries"
-    ]
+    ],
+     "tools":[
+      "VS Code",
+      "STM32CubeIDE",
+      "STM32CubeMX",
+      "Renesas e2studio"
+    ],
     "other":[
       "Bash Scripting",
       "Git&Github",
       "Make",
       "CMake",
       "doxygen"
-    ],
+    ]
   ],
   "hobbies": [
     "Maker electronic",
