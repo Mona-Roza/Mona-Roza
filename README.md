@@ -61,7 +61,7 @@
       "esp32 family",
       "stm32 family",
       "NRF52832",
-      "Renesas Synergy S1 aeries"
+      "Renesas Synergy S1 series"
     ],
      "tools":[
       "VS Code",
