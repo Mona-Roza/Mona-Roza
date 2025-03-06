@@ -1,4 +1,4 @@
-## Hi there!
+**Hi there!**
 
 I’m an Embedded Software Engineer, mostly working with sensors and all kinds of microcontrollers. That means I’m pretty much living in C and C++ most of the time.
 
