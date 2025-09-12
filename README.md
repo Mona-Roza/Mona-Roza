@@ -8,23 +8,25 @@ I’m always looking for ways to get better at what I do — whether it’s lear
 {
   "name": "Başak Nisan",
   "located_in": "Istanbul, Turkiye",
-  "current_job": "Embedded Software Engineer at Uestco",
+  "current_job": "Embedded Software Engineer",
   "education": [
-      "Namik Kemal University, Department Of Computer Engineering",
-      "Çemberlitaş High School"
+      {
+        "institute": "Namik Kemal University, Department Of Computer Engineering",
+        "gpa": "3.39/4"
+      }
+      {
+        "institute": "Çemberlitaş High School",
+        "gpa": "90.941/100"
+      }
     ],
   "experience": {
-      "October 2024 - Now": {
+      "October 2024 - March 2025": {
         "company": "Uestco Energy Systems",
         "title": "Embedded Software Engineer"
       },
-      "July 2023 - September 2024": {
+      "April 2023 - September 2024": {
         "company": "Sensemore.io",
         "title": "Embedded Software Engineer"
-      },
-      "April 2023 - July 2023": {
-        "company": "Sensemore.io",
-        "title": "Embedded Software Engineering Intern"
       }
   },
   "skills-tools-knowlage":[
@@ -40,7 +42,10 @@ I’m always looking for ways to get better at what I do — whether it’s lear
       "nRF5 SDK",
       "Renesas SSP",
       "Vue.js",
-      "Electron.js"
+      "Electron.js",
+      "Node.js",
+      "Express.js"
+      "React Native"
     ],
     "os":[
       "FreeRTOS",
@@ -80,13 +85,14 @@ I’m always looking for ways to get better at what I do — whether it’s lear
       "Git&Github",
       "Make",
       "CMake",
-      "doxygen"
+      "doxygen",
+      "MongoDB"
     ]
   ],
   "hobbies": [
+    "Coding",
     "Maker electronic",
-    "Books",
-    "Music"
+    "Driving Motorcycle&Car"
   ]
 }
 ```
