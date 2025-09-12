@@ -1,6 +1,6 @@
 **Hi there!**
 
-I’m an Embedded Software Engineer, mostly working with sensors and all kinds of microcontrollers. That means I’m pretty much living in C and C++ most of the time.
+I’m not only an Embedded Software Engineer, but also I'm trying to a Beckend Developer.
 
 I’m always looking for ways to get better at what I do — whether it’s learning new techniques, improving my coding skills, or just finding smarter ways to solve problems. I also really enjoy sharing what I’ve learned and helping other developers along the way.
 
