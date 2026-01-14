@@ -1,101 +1,113 @@
 **Hi there!**
 
-I’m not only an Embedded Software Engineer, but also I'm trying to a Beckend Developer.
+I’m an Embedded Software Engineer with a strong interest in Backend Development.
 
-I’m always looking for ways to get better at what I do — whether it’s learning new techniques, improving my coding skills, or just finding smarter ways to solve problems. I also really enjoy sharing what I’ve learned and helping other developers along the way.
+I’m always looking for ways to improve my skills — whether it’s learning new technologies, writing cleaner code, or finding smarter solutions to complex problems. I also enjoy sharing what I learn and helping other developers whenever I can.
 
 ```json
 {
   "name": "Başak Nisan",
-  "located_in": "Istanbul, Turkiye",
-  "current_job": "Embedded Software Engineer",
+  "location": "Istanbul, Turkey",
+  "current_role": "Embedded Software Engineer",
   "education": [
-      {
-        "institute": "Namik Kemal University, Department Of Computer Engineering",
-        "gpa": "3.39/4"
-      }
-      {
-        "institute": "Çemberlitaş High School",
-        "gpa": "90.941/100"
-      }
+    {
+      "institution": "Namık Kemal University, Department of Computer Engineering",
+      "gpa": "3.39 / 4.00"
+    },
+    {
+      "institution": "Çemberlitaş High School",
+      "gpa": "90.94 / 100"
+    }
+  ],
+  "experience": [
+    {
+      "period": "September 2025 - Present",
+      "company": "Klepsan Valves & Water Meter",
+      "title": "Embedded Software Engineer"
+    },
+    {
+      "period": "October 2024 - March 2025",
+      "company": "Uestco Energy Systems",
+      "title": "Embedded Software Engineer"
+    },
+    {
+      "period": "April 2023 - September 2024",
+      "company": "Sensemore.io",
+      "title": "Embedded Software Engineer"
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "C",
+      "C++",
+      "Python",
+      "JavaScript"
     ],
-  "experience": {
-      "October 2024 - March 2025": {
-        "company": "Uestco Energy Systems",
-        "title": "Embedded Software Engineer"
-      },
-      "April 2023 - September 2024": {
-        "company": "Sensemore.io",
-        "title": "Embedded Software Engineer"
-      }
-  },
-  "skills-tools-knowlage":[
-    "languages":[
-      "c",
-      "c++",
-      "python",
-      "javascript"
-    ],
-    "libraries-sdks":[
+    "frameworks_and_sdks": [
       "ESP-IDF",
+      "STM32Cube",
       "AVR LibC",
       "nRF5 SDK",
       "Renesas SSP",
       "Vue.js",
       "Electron.js",
       "Node.js",
-      "Express.js"
+      "Express.js",
       "React Native"
     ],
-    "os":[
+    "operating_systems": [
       "FreeRTOS",
       "ThreadX",
       "Zephyr",
-      "unix-linux",
-      "MacOS",
+      "Linux / Unix",
+      "macOS",
       "Windows"
     ],
-    "protocols-standards-techs":[
+    "protocols_and_technologies": [
       "MQTT",
-      "TCP",
+      "TCP/IP",
       "DNS",
       "NTP",
       "SPI",
-      "i2c",
+      "I2C",
       "UART",
       "MODBUS",
-      "Bluetooth LE",
+      "M-Bus",
+      "Sigfox",
+      "LoRaWAN",
+      "Bluetooth Low Energy",
       "Wi-Fi",
       "Ethernet"
     ],
-    "microcontrollers":[
-      "esp32 family",
-      "stm32 family",
-      "NRF52832",
-      "Renesas Synergy S1 series"
+    "microcontrollers": [
+      "ESP32 family",
+      "STM32 family",
+      "nRF52832",
+      "Renesas Synergy S1 Series"
     ],
-     "tools":[
+    "tools": [
       "VS Code",
-      "STM32CubeIDE",
-      "STM32CubeMX",
-      "Renesas e2studio"
+      "STM32Cube Tools",
+      "Renesas e² studio"
     ],
-    "other":[
+    "other": [
       "Bash Scripting",
-      "Git&Github",
+      "Git & GitHub",
       "Make",
       "CMake",
-      "doxygen",
+      "Doxygen",
       "MongoDB"
     ]
-  ],
+  },
   "hobbies": [
     "Coding",
-    "Maker electronic",
-    "Driving Motorcycle&Car"
+    "Electronics & Maker Projects",
+    "Motorcycle and Car Driving"
   ]
 }
 ```
 
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mona-Roza&count_private=true&show_icons=true&hide=contribs,prs" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Roza&layout=compact" /> |
-|---|---|
+### 🌱 Currently Learning
+- Backend system design
+- RESTful API development
+- Scalable embedded-to-cloud architectures
