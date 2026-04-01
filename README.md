@@ -4,6 +4,11 @@ I’m an Embedded Software Engineer with a strong interest in Backend Developmen
 
 I’m always looking for ways to improve my skills — whether it’s learning new technologies, writing cleaner code, or finding smarter solutions to complex problems. I also enjoy sharing what I learn and helping other developers whenever I can.
 
+### 🌱 Currently Learning
+- Scalable embedded-to-cloud architectures
+- Desktop development
+- QT
+
 ```json
 {
   "name": "Başak Nisan",
@@ -106,8 +111,3 @@ I’m always looking for ways to improve my skills — whether it’s learning n
   ]
 }
 ```
-
-### 🌱 Currently Learning
-- Backend system design
-- RESTful API development
-- Scalable embedded-to-cloud architectures
