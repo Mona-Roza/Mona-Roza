@@ -27,7 +27,7 @@ I’m always looking for ways to improve my skills — whether it’s learning n
   "experience": [
     {
       "period": "September 2025 - Present",
-      "company": "Klepsan Valves & Water Meter",
+      "company": "K******",
       "title": "Embedded Software Engineer"
     },
     {
