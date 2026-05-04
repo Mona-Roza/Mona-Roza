@@ -76,10 +76,7 @@ I’m always looking for ways to improve my skills — whether it’s learning n
       "SPI",
       "I2C",
       "UART",
-      "MODBUS",
-      "M-Bus",
-      "Sigfox",
-      "LoRaWAN",
+      "Stack based protocols",
       "Bluetooth Low Energy",
       "Wi-Fi",
       "Ethernet"
